@@ -1,0 +1,15 @@
+
+Project Name : Font Changeable RESUME.
+
+Day 1 : 21-march-2020
+    Total waste.
+Day 2 : 22-march-2020
+    HTML context is done.
+Day 3 : 23-march-2020
+    CSS ready.
+Day 4 : 24-march-2020
+    JavaScript is prepared.
+Day 5 : 25-march-2020
+    Giving finishing look to webpage.
+Day 6 : 26-march-2020
+    Uploaded on Google-drive.

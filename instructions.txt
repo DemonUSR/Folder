@@ -1,0 +1,14 @@
+
+Open "index.html" page on chrome or any browser you like.
+
+Open in smartphone browser in portrait mode,otherwise everything will mess up.
+
+This is my first project so it's not that much dynamic to run on both portrait and landscape mode.
+
+Obviously it is not made for landscape mode so it won't run properly in PC's at all.
+
+Don't open it with any editor.
+
+After webpage load --
+
+you can click on upper-right corner for more options.
